@@ -1,0 +1,77 @@
+*{
+    margin: 25px;
+}
+
+header{
+    padding-bottom: 25px;
+}
+nav{
+    font-size: 45px;
+    padding: 40px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+#box{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+    padding: 70px;
+
+}
+#abtme{
+    color: rgb(119, 34, 34);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 70px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Divides the page into two equal columns */
+    height: auto; /* Makes the grid full height */
+    width: 100%;
+}
+/* .left-section, .right-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+} */
+hr {
+    border: none;
+    border-top: 2px solid #333;
+    width: 80%;
+    margin: 10px auto;
+}
+.right-section{
+    text-align: justify;
+}
+.right-section2{
+    text-align: center;
+}
+
+.edu{
+    padding: 70px;
+}
+.edu h1 {
+    color: rgb(119, 34, 34);
+}
+footer a {
+    color: black; 
+    text-decoration: none;
+    font-weight: bold; 
+    font-size: 36px;
+    padding-top: 15px;
+
+    
+}
+
+
+
+
+
+
+
